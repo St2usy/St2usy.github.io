@@ -44,10 +44,7 @@ bio: 저는 웹 개발 백엔드에 흥미가 있으며, 전북대학교 컴퓨�
 social:
   - icon: envelope
     icon_pack: fas
-    link: "about/#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: "mailto:sco6503@naver.com" # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
