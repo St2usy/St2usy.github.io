@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:sco6503@naver.com" # For a direct email link, use "mailto:test@example.org".
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/St2usy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/9_oodboy
