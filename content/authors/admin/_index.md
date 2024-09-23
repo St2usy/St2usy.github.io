@@ -47,7 +47,7 @@ social:
     link: "mailto:sco6503@naver.com" # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/9_oodboy
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
