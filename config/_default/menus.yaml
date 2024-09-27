@@ -6,7 +6,7 @@
 main:
   - name: about
     url: about
-    weight: 0
+    weight: 100
   - name: project
     url: project
     weight: 200
