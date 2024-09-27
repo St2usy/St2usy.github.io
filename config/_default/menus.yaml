@@ -28,7 +28,7 @@ main:
     name: notification
     url: /inform/notification
     weight: 410
-  - parent: infrom
+  - parent: inform
     name: calender
     url: /inform/calender
     weight: 420
