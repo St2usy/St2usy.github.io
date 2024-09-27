@@ -9,4 +9,4 @@ main:
     weight: 100
   - name: Resumé
     url: about/
-    weight: 100
+    weight: 200
