@@ -11,7 +11,7 @@ main:
     url: project
     weight: 200
   - parent: Project
-    name: personal
+    name: Personal
     url: /project/personal
     weight: 210
   - parent: Project
@@ -32,3 +32,6 @@ main:
     name: Calender
     url: /inform/calender
     weight: 420
+  - name: Etc
+    url: etc
+    weight: 500
