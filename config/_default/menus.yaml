@@ -4,31 +4,31 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: about
+  - name: About
     url: about
     weight: 100
-  - name: project
+  - name: Project
     url: project
     weight: 200
-  - parent: project
+  - parent: Project
     name: personal
     url: /project/personal
     weight: 210
-  - parent: project
-    name: team
+  - parent: Project
+    name: Team
     url: /project/team
     weight: 220
-  - name: contact
+  - name: Contact
     url: contact
     weight: 300
-  - name: inform
+  - name: Inform
     url: inform
     weight: 400
-  - parent: inform
-    name: notification
+  - parent: Inform
+    name: Notification
     url: /inform/notification
     weight: 410
-  - parent: inform
-    name: calender
+  - parent: Inform
+    name: Calender
     url: /inform/calender
     weight: 420
