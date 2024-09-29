@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 안녕, 나는 신철언이야!! 전북대 컴퓨터공학부 3학년에 재학중이야
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+안녕, 나는 신철언이야!! 전북대 컴퓨터공학부 3학년에 재학중이야
+{style="font-size: 0.8rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
