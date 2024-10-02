@@ -11,7 +11,7 @@ ko:
   languageName: Korean
   params:
     subtitle: Reference, Tutorials, and Explanations
-  title: Project Documentation
+  title: St2usy
   weight: 1
 
 en:
@@ -22,7 +22,7 @@ en:
   languageName: English
   params:
     subtitle: Reference, Tutorials, and Explanations
-  title: Project Documentation
+  title: St2usy
   weight: 2
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
