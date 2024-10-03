@@ -13,6 +13,11 @@ ko:
     subtitle: Reference, Tutorials, and Explanations
   title: St2usy
   weight: 1
+  menu:
+    main:
+      - name: about
+        url: about
+        weight: 100
 
 en:
   contentDir: content/en
