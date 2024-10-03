@@ -1,6 +1,6 @@
 ---
 # Page title
-title: about
+title: aboutme
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
