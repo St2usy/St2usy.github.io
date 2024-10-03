@@ -8,5 +8,5 @@ sections:
   - block: features
     content:
       title:
-      text: <br><span style="font-size:125%">Macs에서는 의료, EMR, Vision, 항공, 국방 등 여러 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
+      text: <br><span style="font-size:125%">저는 전북대학교 컴퓨터공학부에 재학중인 22학번 학부생 신철언입니다. 웹 개발자에서 백엔드 기반 개발에 관심이 있습니다. 개발뿐만 아니라 영상이나 음악에도 관심이 있습니다.</span>
 ---
