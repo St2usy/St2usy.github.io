@@ -15,9 +15,37 @@ ko:
   weight: 1
   menu:
     main:
-      - name: about
+      - name: About
         url: about
         weight: 100
+      - name: Project
+        url: project
+        weight: 200
+      - parent: Project
+        name: Personal
+        url: /project/personal
+        weight: 210
+      - parent: Project
+        name: Team
+        url: /project/team
+        weight: 220
+      - name: Contact
+        url: contact
+        weight: 300
+      - name: Inform
+        url: inform
+        weight: 400
+      - parent: Inform
+        name: Notification
+        url: /inform/notification
+        weight: 410
+      - parent: Inform
+        name: Calender
+        url: /inform/calender
+        weight: 420
+      - name: Etc
+        url: etc
+        weight: 500
 
 en:
   contentDir: content/en
@@ -29,7 +57,39 @@ en:
     subtitle: Reference, Tutorials, and Explanations
   title: St2usy
   weight: 2
-
+  menu:
+    main:
+      - name: About
+        url: about
+        weight: 100
+      - name: Project
+        url: project
+        weight: 200
+      - parent: Project
+        name: Personal
+        url: /project/personal
+        weight: 210
+      - parent: Project
+        name: Team
+        url: /project/team
+        weight: 220
+      - name: Contact
+        url: contact
+        weight: 300
+      - name: Inform
+        url: inform
+        weight: 400
+      - parent: Inform
+        name: Notification
+        url: /inform/notification
+        weight: 410
+      - parent: Inform
+        name: Calender
+        url: /inform/calender
+        weight: 420
+      - name: Etc
+        url: etc
+        weight: 500
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 # Uncomment the lines below to configure your website in a second language.
