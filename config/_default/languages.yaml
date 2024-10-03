@@ -7,7 +7,7 @@ ko:
   contentDir: content/ko
   disabled: false
   languageCode: ko
-  languageDirection: ltr
+  languageDirection: content/ko
   languageName: Korean
   params:
     subtitle: Reference, Tutorials, and Explanations
@@ -18,7 +18,7 @@ en:
   contentDir: content/en
   disabled: false
   languageCode: en-US
-  languageDirection: ltr
+  languageDirection: content/en
   languageName: English
   params:
     subtitle: Reference, Tutorials, and Explanations
