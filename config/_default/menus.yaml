@@ -1,36 +1,36 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-main:
-  - name: About
-    url: about
-    weight: 100
-  - name: Project
-    url: project
-    weight: 200
-  - parent: Project
-    name: Personal
-    url: /project/personal
-    weight: 210
-  - parent: Project
-    name: Team
-    url: /project/team
-    weight: 220
-  - name: Contact
-    url: contact
-    weight: 300
-  - name: Inform
-    url: inform
-    weight: 400
-  - parent: Inform
-    name: Notification
-    url: /inform/notification
-    weight: 410
-  - parent: Inform
-    name: Calender
-    url: /inform/calender
-    weight: 420
-  - name: Etc
-    url: etc
-    weight: 500
+# # Navigation Links
+# #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+# #     desired widget in your `content/home/` folder.
+# #   The weight parameter defines the order that the links will appear in.
+# main:
+#   - name: About
+#     url: about
+#     weight: 100
+#   - name: Project
+#     url: project
+#     weight: 200
+#   - parent: Project
+#     name: Personal
+#     url: /project/personal
+#     weight: 210
+#   - parent: Project
+#     name: Team
+#     url: /project/team
+#     weight: 220
+#   - name: Contact
+#     url: contact
+#     weight: 300
+#   - name: Inform
+#     url: inform
+#     weight: 400
+#   - parent: Inform
+#     name: Notification
+#     url: /inform/notification
+#     weight: 410
+#   - parent: Inform
+#     name: Calender
+#     url: /inform/calender
+#     weight: 420
+#   - name: Etc
+#     url: etc
+#     weight: 500
