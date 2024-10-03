@@ -16,7 +16,7 @@ ko:
   menu:
     main:
       - name: About
-        url: about
+        url: /about
         weight: 100
       - name: Project
         url: project
@@ -30,7 +30,7 @@ ko:
         url: /project/team
         weight: 220
       - name: Contact
-        url: contact
+        url: /contact
         weight: 300
       - name: Inform
         url: inform
@@ -44,7 +44,7 @@ ko:
         url: /inform/calender
         weight: 420
       - name: Etc
-        url: etc
+        url: /etc
         weight: 500
 
 en:
@@ -60,7 +60,7 @@ en:
   menu:
     main:
       - name: About
-        url: about
+        url: /about
         weight: 100
       - name: Project
         url: project
@@ -74,7 +74,7 @@ en:
         url: /project/team
         weight: 220
       - name: Contact
-        url: contact
+        url: /contact
         weight: 300
       - name: Inform
         url: inform
@@ -88,7 +88,7 @@ en:
         url: /inform/calender
         weight: 420
       - name: Etc
-        url: etc
+        url: /etc
         weight: 500
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
