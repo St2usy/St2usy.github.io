@@ -1,21 +1,45 @@
 ---
+
 title: "소개"
 date: 2024-10-03
 draft: false
----
 
-# 안녕하세요! 저는 [신철언]입니다.
+# Full Name (for SEO)
 
-![프로필 사진](avatar.jpg)
+first_name: Cheol Eon
+last_name: Sin
 
-- **소속**: [전북대학교 공과대학]
-- **전공**: [컴퓨터공학부]
+# Username (this should match the folder name)
 
-### 소셜 미디어
+authors:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/9_oodboy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/St2usy)
+- admin
 
-### PDF 다운로드
+# Is this the primary user of the site?
 
-## [여기를 클릭하여 PDF 다운로드](downloads/resume.pdf)
+superuser: true
+
+# Role/position
+
+role: 학부생
+
+# Organizations/Affiliations
+
+organizations:
+
+- name: 전북대학교 컴퓨터인공지능학부
+  url: 'https://csai.jbnu.ac.kr/csai/'
+
+profiles:
+
+- icon: at-symbol
+  url: 'mailto:sco6503@naver.com'
+  label: E-mail Me
+- icon: brands/instagram
+  url: https://www.instagram.com/9_oodboy
+
+# Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+
+- icon: academicons/cv
+  url: uploads/resume.pdf
+  label: Download my resume
