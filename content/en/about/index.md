@@ -1,79 +1,69 @@
 ---
-# Display name
-title: 이경수
+# Leave the homepage title empty to use the site title
+title:
+date: 2024-03-25
+type: landing
 
-# Full Name (for SEO)
-first_name: Kyungsu
-last_name: Lee
+sections:
+  - block: features
+    content:
+      title:
+      text: <br><span style="font-size:125%">저는 전북대학교 컴퓨터공학부에 재학중인 22학번 학부생 신철언입니다. 웹 개발자에서 백엔드 기반 개발에 관심이 있습니다. 개발뿐만 아니라 영상이나 음악에도 관심이 있습니다.</span>
 
-# Username (this should match the folder name)
-authors:
-  - admin
+  - block: slider
+    content:
+      slides:
+        - title: <span style="font-size:70%">Music</span>
+          content: <span style="font-size:70%">힙합, R&B, 록, 재즈등 다양한 음악 감상</span>
+          align: center
+          background:
+            image:
+              filename: madvillainy.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
 
-# Is this the primary user of the site?
-superuser: true
+        - title: <span style="font-size:70%">Video</span>
+          content: <span style="font-size:70%">촬영, 편집<span style="font-size:70%">
+          align: center
+          background:
+            image:
+              filename: video.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
 
-# Role/position
-role: 조교수
+        - title: <span style="font-size:70%">Development</span>
+          content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+          align: center
+          background:
+            image:
+              filename: development.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
 
-# Organizations/Affiliations
-organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
-    url: "https://csai.jbnu.ac.kr/csai/index.do"
+        - title: <span style="font-size:70%">Fashion</span>
+          content: <span style="font-size:70%">다양한 브랜드의 제품 디깅</span>
+          align: center
+          background:
+            image:
+              filename: labros.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: "#000"
 
-# Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
-
-interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
-
-education:
-  courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:ksl@jbnu.ac.kr"
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
-  - icon: cv
-    icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ksl@jbnu.ac.kr"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - admin
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: "350px"
+      slide_width: "100px"
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
 ---
-
-Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications이라는 제목의 논문으로 2023년 대구경북과학기술원에서 통합 석사 및 박사 학위를 받았습니다. 2024년에 전북대학교 컴퓨터인공지능학부에 조교수 position으로 임명받고 현재까지 근무하고 있습니다. 연구 분야는 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리를 포함하고 있으며, AI의 이론부터 다양한 특성화 분야의 어플리케이션까지 넓은 범위를 포함하고 있습니다.
