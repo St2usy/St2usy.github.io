@@ -16,7 +16,7 @@ ko:
   menu:
     main:
       - name: About
-        url: /about
+        url: about/
         weight: 100
       - name: Project
         url: project
