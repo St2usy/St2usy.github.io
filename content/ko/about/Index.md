@@ -1,7 +1,8 @@
 ---
 # Page title
-title: aboutme
+title: about-me
 # Page type - we want a landing page (such as a homepage)
+date: 2024-03-25
 type: landing
 
 # Your landing page sections - add as many different content blocks as you like
