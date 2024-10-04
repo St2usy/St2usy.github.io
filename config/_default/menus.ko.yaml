@@ -6,6 +6,7 @@ main:
   - name: About
     url: /about/
     weight: 100
+
   - name: Project
     url: project
     weight: 200
@@ -15,8 +16,9 @@ main:
     weight: 210
   - parent: Project
     name: Team
-    url: /project/team
+    url: /project/
     weight: 220
+
   - name: Interest
     url: /interest
     weight: 300
@@ -28,6 +30,7 @@ main:
     name: music
     url: /interest/music
     weight: 320
+
   - name: Inform
     url: inform
     weight: 400
@@ -35,10 +38,11 @@ main:
     name: Notification
     url: /inform/notification
     weight: 410
-  - parent: Infrom
+  - parent: Inform
     name: Calender
     url: /inform/calender
     weight: 420
+
   - name: Etc
     url: etc
     weight: 500
