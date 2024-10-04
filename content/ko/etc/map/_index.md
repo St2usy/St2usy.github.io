@@ -1,7 +1,6 @@
 ---
 title: map
 date: 2024-10-04
-type: landing
 
 features:
   map:
@@ -11,6 +10,6 @@ features:
 
 content:
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
+    latitude: "35.847069"
+    longitude: "127.129879"
 ---
