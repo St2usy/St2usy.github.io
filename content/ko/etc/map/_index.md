@@ -1,11 +1,17 @@
 ---
-features:
-  map:
-    provider: "mapnik"
-    api_key: ""
-    zoom: 15
-content:
-  coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
+# Leave the homepage title empty to use the site title
+title:
+date: 2024-03-25
+type: landing
 ---
+
+<div id="map" style="height: 400px;"></div>
+<script>
+  var map = L.map('map').setView([35.847069, 127.129879], 15);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+  
+  var marker = L.marker([35.847069, 127.129879]).addTo(map)
+    .bindPopup('Location marker').openPopup();
+</script>
