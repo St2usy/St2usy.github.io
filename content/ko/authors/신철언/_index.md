@@ -48,8 +48,8 @@ social:
     icon_pack: fas
     link: "mailto:sco6503@naver.com"
   - icon: instagram
-    icon_pack: fas
-    link: https://intsagram.com/9_oodboy
+    icon_pack: brands
+    link: intsagram.com/9_oodboy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
