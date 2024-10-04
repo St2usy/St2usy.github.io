@@ -17,9 +17,17 @@ main:
     name: Team
     url: /project/team
     weight: 220
-  - name: Contact
-    url: contact
+  - name: Interest
+    url: /interest
     weight: 300
+  - parent: Interest
+    name: fashion
+    url: /interest/fashion
+    weight: 310
+  - parent: Interest
+    name: music
+    url: /interest/music
+    weight: 320
   - name: Inform
     url: inform
     weight: 400
@@ -27,7 +35,7 @@ main:
     name: Notification
     url: /inform/notification
     weight: 410
-  - parent: Inform
+  - parent: Infrom
     name: Calender
     url: /inform/calender
     weight: 420
