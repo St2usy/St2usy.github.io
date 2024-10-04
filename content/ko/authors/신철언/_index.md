@@ -40,11 +40,11 @@ social:
     link: "mailto:sco6503@naver.com"
 
   - icon: instagram
-    icon_pack: brands
+    icon_pack: fab
     link: intsagram.com/9_oodboy
 
   - icon: github
-    icon_pack: brands
+    icon_pack: fab
     link: github.com/St2usy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
