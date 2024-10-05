@@ -1,7 +1,7 @@
 ---
 title: My page
 type: landing
-
+featured_image: "/media/video.jpg"
 sections:
   - block: about.avatar
     id: about

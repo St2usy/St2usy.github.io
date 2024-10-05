@@ -63,5 +63,3 @@ highlight_name: true
 user_groups:
   - Student
 ---
-
-Check out my [resumé](/about/)
