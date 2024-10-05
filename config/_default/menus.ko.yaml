@@ -50,7 +50,3 @@ main:
     name: contact
     url: /etc/contact
     weight: 510
-  - parent: Etc
-    name: ...
-    url: /etc/none
-    weight: 520
