@@ -8,7 +8,7 @@ main:
     weight: 100
 
   - name: Project
-    url: project
+    url: ''
     weight: 200
   - parent: Project
     name: Personal
