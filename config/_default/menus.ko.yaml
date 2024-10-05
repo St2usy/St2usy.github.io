@@ -46,3 +46,7 @@ main:
   - name: Etc
     url: etc
     weight: 500
+  - parent: Etc
+    name: map 
+    url: /etc/map
+    weight: 510
