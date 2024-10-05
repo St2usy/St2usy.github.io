@@ -53,3 +53,4 @@ main:
   - parnet: Etc
     name: ...
     url: /etc/none
+    weight: 520
