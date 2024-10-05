@@ -1,5 +1,5 @@
 ---
-title: project
+title: 개인 프로젝트
 
 # Listing view
 view: community/custom_card
