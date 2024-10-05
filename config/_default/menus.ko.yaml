@@ -50,3 +50,6 @@ main:
     name: contact
     url: /etc/contact
     weight: 510
+  - parnet: Etc
+    name: ...
+    url: /etc/none
