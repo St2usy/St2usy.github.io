@@ -95,16 +95,13 @@ sections:
       text:
       count: 3
       filters:
-        author: ""
-        category: ""
-        exclude_featured: false
-        publication_type: ""
-        tag: ""
+        folders:
+          - project
       offset: 0
       order: desc
       page_type: publication
     design:
-      view: interest
+      view: community/custom_card
       columns: "2"
     advanced:
       css_style: "text-align: center;"
