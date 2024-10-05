@@ -9,11 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
-      email: ksl(at)jbnu.ac.kr
-      phone: +82-63-270-2406
+        <br> <span style="font-size:95%">전북대학교 컴퓨터공학부 22학번 신철언입니다. 나랑 쓰껄 하려면 아래로 연락 주세요</span> <br>
+      email: sco6503@naver.com
+      phone: +82-10-3006-1833
       address:
-        street: 전북대학교 공과대학 7호관 626호
+        street: 전북대학교 공과대학 7호관
         city: 전주시
         region: 전라북도
         postcode: "54896"
