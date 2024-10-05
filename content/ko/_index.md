@@ -81,7 +81,7 @@ sections:
           - project
     design:
       view: community/custom_card
-      columns: "2"
+      columns: "4"
       background:
       # Choose a color such as from https://html-color-codes.info
       color: "grey"
@@ -102,7 +102,7 @@ sections:
           - interest
     design:
       view: community/custom_card
-      columns: "2"
+      columns: "4"
       background:
       # Choose a color such as from https://html-color-codes.info
       color: "#A4A4A4"
