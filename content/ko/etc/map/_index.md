@@ -4,7 +4,6 @@ type: landing
 
 sections:
   - block: markdown
-    id: section-1
     content:
       coordinates:
         latitude: "37.4275"
