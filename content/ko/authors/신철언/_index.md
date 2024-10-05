@@ -19,7 +19,7 @@ role: 학부생
 # Organizations/Affiliations
 organizations:
   - name: 전북대학교 컴퓨터인공지능학부
-    url: "https://csai.jbnu.ac.kr/csai/"
+    url: "https://csai.jbnu.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 웹 백엔드 개발과 다양한 장르의 패션, 음악을 즐기며 영상 촬영과 편집, 영상물의 감상을 모두 즐깁니다.
