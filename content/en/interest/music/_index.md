@@ -1,5 +1,5 @@
 ---
-title: 음악
+title: music
 # Listing view
 view: community/custom_card
 

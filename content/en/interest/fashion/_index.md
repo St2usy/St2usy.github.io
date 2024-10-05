@@ -1,5 +1,5 @@
 ---
-title: 패션
+title: fashion
 
 # Listing view
 view: community/custom_card

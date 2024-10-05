@@ -1,5 +1,5 @@
 ---
-title: 2024년 월드챔피언십
+title: 2024 World Championship
 date: 2024-03-29
 ---
 
