@@ -38,10 +38,6 @@ main:
     name: Notification
     url: /inform/notification
     weight: 410
-  - parent: Inform
-    name: Calender
-    url: /inform/calender
-    weight: 420
 
   - name: Etc
     url: etc
