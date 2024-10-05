@@ -1,22 +1,14 @@
 ---
-# Page title
-title: about-me
-# Page type - we want a landing page (such as a homepage)
-date: 2024-03-25
+title: My page
 type: landing
-
-# Your landing page sections - add as many different content blocks as you like
+featured_image: "/assets/media/video.jpg"
 sections:
-  - block: markdown
-    id: section-1
+  - block: about.avatar
+    id: about
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: 신철언
+      # Override your profile text from `authors/admin/_index.md`?
+      text: |
+        👋 Hello, I'm Shin Cheol-eon, a computer engineering student at Chonbuk National University. I'm studying web backend development,I'm interested in movies, music, and fashion.{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} pdf.
 ---
