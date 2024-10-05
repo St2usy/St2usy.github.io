@@ -82,4 +82,9 @@ sections:
     design:
       view: community/custom_card
       columns: "2"
+      background:
+      # Choose a color such as from https://html-color-codes.info
+      color: "grey"
+      # Text color (true=light, false=dark, or remove for the dynamic theme color)
+      text_color_light: true
 ---
