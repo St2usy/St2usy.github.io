@@ -16,7 +16,7 @@ main:
     weight: 210
   - parent: Project
     name: Team
-    url: /project/
+    url: /project/team
     weight: 220
 
   - name: Interest
