@@ -14,4 +14,4 @@ sections:
         영화, 음악, 패션에 관심이 있습니다.
 ---
 
-[Download PDF](files/sample.pdf)
+Check out my [resumé](/about/) and portfolio below 😍
