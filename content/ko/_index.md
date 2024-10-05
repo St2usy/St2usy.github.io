@@ -94,7 +94,7 @@ sections:
       title: fashion & music
       subtitle:
       text:
-      count: 3
+      count: 6
       offset: 0
       order: desc
       filters:
@@ -102,7 +102,7 @@ sections:
           - interest
     design:
       view: community/custom_card
-      columns: "1"
+      columns: "2"
       background:
       # Choose a color such as from https://html-color-codes.info
       color: "#A4A4A4"
