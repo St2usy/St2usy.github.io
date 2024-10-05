@@ -11,7 +11,7 @@ sections:
       # Override your profile text from `authors/admin/_index.md`?
       text: |
         👋 안녕하세요. 전북대학교 컴퓨터공학부 재학중인 신철언입니다. 웹 백엔드 개발 공부를 하고 있으며,
-        영화, 음악, 패션에 관심이 있습니다.
+        영화, 음악, 패션에 관심이 있습니다. Check out my [resumé](/about/)
 ---
 
-Check out my [resumé](/about/) and portfolio below 😍
+Check out my [resumé](/about/)
