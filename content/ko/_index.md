@@ -3,7 +3,7 @@
 title:
 date: 2024-03-25
 type: landing
-
+featured_image: "/media/video.jpg"
 sections:
   - block: features
     content:
@@ -66,4 +66,20 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
+
+  - block: collection
+    content:
+      id: section-1
+      title: Project
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - project
+    design:
+      view: community/custom_card
+      columns: "2"
 ---
